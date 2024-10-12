@@ -7,4 +7,4 @@
 - 💻 [GitHub](https://github.com/rickymnit)
 
 ## Education
-National Instiutute of Technology, Jaipur (MNIT-Jaipur)
+B.Tech. from National Instiutute of Technology, Jaipur (MNIT-Jaipur)
