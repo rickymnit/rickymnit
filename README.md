@@ -10,9 +10,6 @@ Passionate about technology, specially about Blockchain Technologyand want to le
 ### Key Features:
 
 - Blockchain Development
-- DeFi 
-- Machine learning.
-
-- 📧 Email: ricknit7@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricky-raj-2022umt1551/)
-- 💻 [GitHub](https://github.com/rickymnit)
+- Decentralized Applications (DApps) 
+- Decentralized Finance (DeFi)
+- Tesing & Deploy Scripting
