@@ -9,4 +9,9 @@
 - Blockchain Development
 - Decentralized Applications (DApps) 
 - Decentralized Finance (DeFi)
-- Tesing & Deploy Scripting
+
+- Deep Learning
+- Supervised & Unsupervised Learning
+- Neural Network Architecture Design
+- Computer Vision
+
