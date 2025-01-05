@@ -9,9 +9,12 @@
 #### Blockchain Development
 - Decentralized Applications (DApps) 
 - Decentralized Finance (DeFi)
-
+- NFT Development(Non-Fungible Token)
+- Governance & DAO (Decentralized Autonomous Organizations)
+- MultiSig Wallets
+  
 #### Deep Learning
 - Supervised & Unsupervised Learning
 - Neural Network Architecture Design
+- Generative Adversarial Networks (GANs)
 - Computer Vision
-
