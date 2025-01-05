@@ -6,11 +6,11 @@
 ## I'm a passionate Programmer. I can code in many languages C/C++, Python, Solidity, and JavaScript.
 ### Key Features:
 
-- Blockchain Development
+#### Blockchain Development
 - Decentralized Applications (DApps) 
 - Decentralized Finance (DeFi)
 
-- Deep Learning
+#### Deep Learning
 - Supervised & Unsupervised Learning
 - Neural Network Architecture Design
 - Computer Vision
